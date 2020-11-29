@@ -80,6 +80,7 @@ class GoogleTranslate
         'tsel'     => 0,
         'kc'       => 1,
         'tk'       => null,
+        'format'   => 'html',
     ];
 
     /**
